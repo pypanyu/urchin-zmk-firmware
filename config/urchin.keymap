@@ -89,7 +89,7 @@
         combo_ctrl_space {
             timeout-ms = <200>;
             key-positions = <12 13>;
-            bindings = <&kp LC(SPACE)>;
+            bindings = <&kp LG(E)>;
             layers = <BASE>;
         };
     };
